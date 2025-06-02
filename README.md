@@ -24,26 +24,21 @@ This is a front-end clone of the Myntra website created using only **HTML** and 
 - Used `transform: scale(1.1)` to create a zoom-in effect on hover  
 - Enhances user interaction and visual appeal when cursor is placed on elements
 
-```css
-/* Sample effect */
-.element:hover {
-  transform: scale(1.1);
-  transition: transform 0.3s ease;
-}
-
-
 ## 📂 Files Included
 
-- `index.html` – Main page structure
-- `style.css` – Styling for the entire 
+- `index.html` – Main page structure  
+- `style.css` – Styling for the entire layout  
+- `assets/` (if applicable) – Images, logos, or icons used  
 
 ## 🌐 Live Demo
 
 Once hosted, the live project will be available here:  
 **🔗 [Live Link](#)** <!-- Replace # with your hosted URL once ready -->
 
- 
+## 📸 Preview
 
+<!-- Optional: Add a screenshot here once available -->
+![Screenshot](screenshot.png)
 
 ## 📌 Note
 
