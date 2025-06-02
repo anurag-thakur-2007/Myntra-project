@@ -4,16 +4,38 @@ This is a front-end clone of the Myntra website created using only **HTML** and 
 
 ## 🧾 Project Details
 
-- Fully static website
-- No JavaScript or backend involved
-- Built using clean and responsive HTML & CSS
+- Fully static website  
+- No JavaScript or backend involved  
+- Built using clean and responsive HTML & CSS  
 - Inspired by [Myntra](https://www.myntra.com)
+
+## ✨ Features
+
+- Replicated homepage layout of Myntra  
+- Navigation bar with logo and menu links  
+- Banner section and promotional offers  
+- Product categories with visual layout  
+- Footer with useful links and information  
+- Responsive styling using CSS only
+
+## 🛠️ Modifications from Original
+
+- Added hover animation to **Categories** and **OMG Deals** sections  
+- Used `transform: scale(1.1)` to create a zoom-in effect on hover  
+- Enhances user interaction and visual appeal when cursor is placed on elements
+
+```css
+/* Sample effect */
+.element:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
+
 
 ## 📂 Files Included
 
 - `index.html` – Main page structure
-- `style.css` – Styling for the entire layout
-
+- `style.css` – Styling for the entire 
 
 ## 🌐 Live Demo
 
